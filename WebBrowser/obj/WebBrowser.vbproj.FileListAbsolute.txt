@@ -1,0 +1,10 @@
+C:\Users\don\Desktop\POSTS\Post29\WebBrowser\WebBrowser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\don\Desktop\POSTS\Post29\WebBrowser\WebBrowser\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\don\Desktop\POSTS\Post29\WebBrowser\WebBrowser\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\don\Desktop\POSTS\Post29\WebBrowser\WebBrowser\obj\Debug\WebBrowser.vbproj.GenerateResource.Cache
+C:\Users\don\Desktop\POSTS\Post29\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\don\Desktop\POSTS\Post29\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\don\Desktop\POSTS\Post29\WebBrowser\WebBrowser\bin\Debug\WebBrowser.xml
+C:\Users\don\Desktop\POSTS\Post29\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe
+C:\Users\don\Desktop\POSTS\Post29\WebBrowser\WebBrowser\obj\Debug\WebBrowser.xml
+C:\Users\don\Desktop\POSTS\Post29\WebBrowser\WebBrowser\obj\Debug\WebBrowser.pdb
